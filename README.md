@@ -75,9 +75,6 @@ Here are some ideas to get you started:
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorkham)](https://github.com/Zorkham/github-readme-stats)
 
 
