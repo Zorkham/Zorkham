@@ -83,4 +83,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-[![Zorkham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zorkham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorkham)](https://github.com/Zorkham/github-readme-stats)
+
+
+[![Zorkham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zorkham)](https://github.com/Zorkham/github-readme-stats)
