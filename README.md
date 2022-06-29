@@ -27,7 +27,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Zorkham&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zorkham&theme=bear&hide_border=false)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorkham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zorkham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
