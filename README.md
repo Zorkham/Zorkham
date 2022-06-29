@@ -31,6 +31,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorkham)](https://github.com/Zorkham/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorkham&layout=compact)](https://github.com/Zorkham/github-readme-stats)
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zorkham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
