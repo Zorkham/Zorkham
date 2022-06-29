@@ -1,9 +1,5 @@
-### Hi there 👋
-
-## Test
-
-# 💫 About Me:
-👋 Hi, I’m Cédric, 30 years, living in Paris, from Nice<br>👨‍💻 Full-Stack Software Engineer since 2013<br>🎓 Certified Scrum Master since 2018 · Scrum Alliance<br><br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about React, Node.js, TypeScript, Swift, Python<br>⚡ Fun fact
+## 👋 Hi, I’m Cédric, 30 years, living in Paris, from Nice<br>👨‍💻 Full-Stack 
+Software Engineer since 2013<br>🎓 Certified Scrum Master since 2018 · Scrum Alliance<br><br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about React, Node.js, TypeScript, Swift, Python<br>⚡ Fun fact
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zorkham.visitor-badge)
 
