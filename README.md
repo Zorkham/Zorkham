@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Cédric!
 
-🌍 Living in Paris, France
+🇫🇷 Living in Paris, France
 
 👨‍💻 Full-Stack Software Engineer since 2013
 
