@@ -8,7 +8,7 @@
 
 🧑‍💻 Ask me about React, Node.js, TypeScript, Swift, Python
 
-⚡ Passionnate about martial arts, astronomy, board games and vinyl collector
+🤩 Passionate about martial arts, astronomy & board games
 
 ### Languages and Tools:
 
