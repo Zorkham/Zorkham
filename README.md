@@ -24,9 +24,7 @@
 
 <br />
 
-![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zorkham.visitor-badge)
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zorkham.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zorkham.visitor-badge&left_color=grey&right_color=pink&left_text=Visitors)
 
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/cedric-molla) 
 
