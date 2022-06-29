@@ -1,5 +1,9 @@
 ### 👋 Hi, I’m Cédric!
 <br />
+<span align="right">
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zorkham.visitor-badge&left_color=lightgrey&right_color=blue&left_text=Visitors)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/cedric-molla)
+</span>
 <img align="right" alt="GIF" width="250" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif"/>
 
 🇫🇷 Living in Paris, France
@@ -29,6 +33,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zorkham&theme=bear&hide_border=false)<br/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zorkham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zorkham.visitor-badge&left_color=lightgrey&right_color=blue&left_text=Visitors)
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/cedric-molla)
