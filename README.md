@@ -25,7 +25,7 @@
 </div>
 
 <a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
-    <img style="background-size: cover" height="50" src="https://img.icons8.com/color/344/webstorm.png"/>
+    <img align="left" alt="Webstorm" width="26px" src="https://img.icons8.com/color/344/webstorm.png"/>
 </a>
 
 <br /><br /><br />
