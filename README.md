@@ -1,4 +1,7 @@
 ### 👋 Hi, I’m Cédric!
+
+🌍 Living in Paris, from Nice
+
 👨‍💻 Full-Stack Software Engineer since 2013
 
 🎓 Certified Scrum Master since 2018 · Scrum Alliance
