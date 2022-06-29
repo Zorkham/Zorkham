@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Cédric!
-
+<br />
 <img align="right" alt="GIF" width="250" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif"/>
 
 🇫🇷 Living in Paris, France
