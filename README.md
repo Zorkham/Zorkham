@@ -1,8 +1,6 @@
 ### 👋 Hi, I’m Cédric!
 
-<img align="right" alt="GIF" width="367" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif"/>
-
-<img align="right" alt="GIF" width="367" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif"/>
+<img align="right" alt="GIF" width="250" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif"/>
 
 🇫🇷 Living in Paris, France
 
