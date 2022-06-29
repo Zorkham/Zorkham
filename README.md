@@ -4,7 +4,7 @@
 
 🇫🇷 Living in Paris, France
 
-👨‍💻 Full-Stack Software Engineer since 2013
+👨‍💻 Software Engineer since 2013
 
 🎓 Certified Scrum Master since 2018
 
