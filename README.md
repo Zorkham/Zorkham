@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m Cédric!
 
+<img align="right" alt="GIF" width="367" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif"/>
+
 🇫🇷 Living in Paris, France
 
 👨‍💻 Full-Stack Software Engineer since 2013
@@ -9,8 +11,6 @@
 🧑‍💻 Ask me about React, Node.js, TypeScript, Swift, Python
 
 🤩 Passionate about martial arts, astronomy & board games
-
-<img align="right" alt="GIF" width="367" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif"/>
 
 ### Languages and Tools:
 
