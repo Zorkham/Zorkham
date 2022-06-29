@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Cédric!
 
-<span align="right">![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zorkham.visitor-badge)</span>
+<p align="right">![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zorkham.visitor-badge)</p>
 
 <img align="right" alt="GIF" width="250" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif"/>
 
