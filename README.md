@@ -12,6 +12,7 @@
 
 🤩 Passionate about martial arts, astronomy & board games
 
+<br />
 
 ### Languages and Tools:
 
