@@ -28,6 +28,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zorkham&show_icons=true&theme=bear&hide_border=false)<br/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zorkham&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zorkham&show_icons=true&theme=bear&hide_border=false" />
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zorkham.visitor-badge&left_color=lightgrey&right_color=blue&left_text=Visitors)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/cedric-molla)
