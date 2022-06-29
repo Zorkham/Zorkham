@@ -10,6 +10,8 @@
 
 🤩 Passionate about martial arts, astronomy & board games
 
+<img align="right" alt="GIF" width="367" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif"/>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -49,8 +51,6 @@
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/79132011194)](https://wa.me/79132011194)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2-449709132/)](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2-449709132/)
 [![Discord Badge](https://img.shields.io/badge/-Discord-FF0000?style=flat-square&labelColor=FFFFFF&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&link=https://discord.com/invite/2SNu9KT)](https://discord.com/invite/2SNu9KT)
-
-<img align="right" alt="GIF" width="367" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
