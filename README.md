@@ -26,7 +26,7 @@
 
 <br /><br /><br />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zorkham&theme=bear&show_owner=true&hide_title=true&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zorkham&theme=bear&show_owner=true&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zorkham&theme=bear&show_owner=true&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zorkham.visitor-badge&left_color=lightgrey&right_color=blue&left_text=Visitors)
