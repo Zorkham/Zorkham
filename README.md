@@ -8,7 +8,7 @@
 
 🎓 Certified Scrum Master since 2018
 
-💬 Ask me about React, Node.js, TypeScript, Swift, Python
+💬 Ask me about React, Node.js, TypeScript, Swift & Python
 
 🤩 Passionate about martial arts, astronomy & board games
 
