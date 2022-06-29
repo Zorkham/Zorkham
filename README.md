@@ -1,7 +1,5 @@
 ### 👋 Hi, I’m Cédric!
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zorkham.visitor-badge)
-
 <img align="right" alt="GIF" width="250" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif"/>
 
 🇫🇷 Living in Paris, France
@@ -13,6 +11,8 @@
 💬 Ask me about React, Node.js, TypeScript, Swift, Python
 
 🤩 Passionate about martial arts, astronomy & board games
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zorkham.visitor-badge)
 
 ### Languages and Tools:
 
