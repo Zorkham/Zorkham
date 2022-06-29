@@ -4,20 +4,11 @@
 
 👨‍💻 Full-Stack Software Engineer since 2013
 
-🎓 Certified Scrum Master since 2018 · Scrum Alliance
+🎓 Certified Scrum Master since 2018
 
+🧑‍💻 Ask me about React, Node.js, TypeScript, Swift, Python
 
-🔭 I’m currently working on
-
-👯 I’m looking to collaborate on
-
-🤝 I’m looking for help with
-
-🌱 I’m currently learning
-
-💬 Ask me about React, Node.js, TypeScript, Swift, Python
-
-⚡ Fun fact
+⚡ Passionnate about martial arts, astronomy, board games and vinyl collector
 
 ### Languages and Tools:
 
