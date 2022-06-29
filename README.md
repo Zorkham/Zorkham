@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Cédric!
+## 👋 Hi, I’m Cédric!
 
 <img align="right" alt="GIF" width="250" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif"/>
 
