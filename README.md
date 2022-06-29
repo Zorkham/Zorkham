@@ -1,12 +1,19 @@
 ## 👋 Hi, I’m Cédric, 30 years, living in Paris, from Nice
 👨‍💻 Full-Stack Software Engineer since 2013
+
 🎓 Certified Scrum Master since 2018 · Scrum Alliance
 
+
 🔭 I’m currently working on
+
 👯 I’m looking to collaborate on
+
 🤝 I’m looking for help with
+
 🌱 I’m currently learning
+
 💬 Ask me about React, Node.js, TypeScript, Swift, Python
+
 ⚡ Fun fact
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zorkham.visitor-badge)
