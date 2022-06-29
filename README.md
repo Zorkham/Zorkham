@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Cédric, 30 years, living in Paris, from Nice
+### 👋 Hi, I’m Cédric, 30 years, living in Paris, from Nice
 👨‍💻 Full-Stack Software Engineer since 2013
 
 🎓 Certified Scrum Master since 2018 · Scrum Alliance
