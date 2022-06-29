@@ -24,15 +24,14 @@
 </span>
 <br /><br />
 
-![](https://github-readme-stats.vercel.app/api?username=Zorkham&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zorkham&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Zorkham&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zorkham&show_icons=true&theme=bear&hide_border=false)<br/>
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorkham&include_all_commits=true&count_private=true)](https://github.com/Zorkham/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorkham&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Zorkham/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorkham)](https://github.com/Zorkham/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorkham&layout=compact)](https://github.com/Zorkham/github-readme-stats)
-
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zorkham&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
