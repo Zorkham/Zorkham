@@ -42,19 +42,60 @@
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/cedric-molla)
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
+**✨ 0 people were here!**
+
+
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
+**From Hello World I have written 303891 Lines of Code ✍️**
+
+
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
+**🏆 844 Contributions in year 2022**
+
+
 <!--END_CONTRIBUTIONS:readme-info-->
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
+**I'm an early 🐤** 
+
+| | | | |
+| --- | --- | --- | --- |
+|🌞 Morning                |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
+|🌆 Daytime                |162 commits         |![](https://via.placeholder.com/208x22/000000/000000?text=+)![](https://via.placeholder.com/192x22/b8b8b8/b8b8b8?=text=+)|51.92%|
+|🌃 Evening                |140 commits         |![](https://via.placeholder.com/180x22/000000/000000?text=+)![](https://via.placeholder.com/220x22/b8b8b8/b8b8b8?=text=+)|44.87%|
+|🌙 Night                  |10 commits          |![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|3.21%|
+| | | | |
+
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+📅 **I'm Most Productive on Wednesdays** 
+
+| | | | |
+| --- | --- | --- | --- |
+|Monday                   |1 commits           |![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|0.93%|
+|Tuesday                  |7 commits           |![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|6.48%|
+|Wednesday                |100 commits         |![](https://via.placeholder.com/372x22/000000/000000?text=+)![](https://via.placeholder.com/28x22/b8b8b8/b8b8b8?=text=+)|92.59%|
+|Thursday                 |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
+|Friday                   |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
+|Saturday                 |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
+|Sunday                   |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
+| | | | |
+
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 <!--START_SECTION_LANGUAGE:readme-info-->
+**My 💖 languages TypeScript** 
+
+| | | | |
+| --- | --- | --- | --- |
+|TypeScript               |2 repos|             ![](https://via.placeholder.com/200x22/000000/000000?text=+)![](https://via.placeholder.com/200x22/b8b8b8/b8b8b8?=text=+)|50.0%|
+|JavaScript               |1 repos|             ![](https://via.placeholder.com/100x22/000000/000000?text=+)![](https://via.placeholder.com/300x22/b8b8b8/b8b8b8?=text=+)|25.0%|
+|HTML                     |1 repos|             ![](https://via.placeholder.com/100x22/000000/000000?text=+)![](https://via.placeholder.com/300x22/b8b8b8/b8b8b8?=text=+)|25.0%|
+| | | | |
+
 <!--END_SECTION_LANGUAGE:readme-info-->
