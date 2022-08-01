@@ -15,28 +15,12 @@
 <br />
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 2.3 million Lines of Code ✍️**
-
-
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 857 Contributions in year 2022**
-
-
 <!--END_CONTRIBUTIONS:readme-info-->
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
-**I'm an early 🐤** 
-
-| | | | |
-| --- | --- | --- | --- |
-|🌞 Morning                |86 commits          |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|27.56%|
-|🌆 Daytime                |147 commits         |![](https://via.placeholder.com/188x22/000000/000000?text=+)![](https://via.placeholder.com/212x22/b8b8b8/b8b8b8?=text=+)|47.12%|
-|🌃 Evening                |75 commits          |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|24.04%|
-|🌙 Night                  |4 commits           |![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.28%|
-| | | | |
-
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <br />
