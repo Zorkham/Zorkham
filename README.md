@@ -15,13 +15,13 @@
 <br />
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 315502 Lines of Code ✍️**
+**From Hello World I have written 2.3 million Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 861 Contributions in year 2022**
+**🏆 862 Contributions in year 2022**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -31,10 +31,10 @@
 
 | | | | |
 | --- | --- | --- | --- |
-|🌞 Morning                |80 commits          |![](https://via.placeholder.com/104x22/000000/000000?text=+)![](https://via.placeholder.com/296x22/b8b8b8/b8b8b8?=text=+)|25.64%|
+|🌞 Morning                |79 commits          |![](https://via.placeholder.com/100x22/000000/000000?text=+)![](https://via.placeholder.com/300x22/b8b8b8/b8b8b8?=text=+)|25.32%|
 |🌆 Daytime                |152 commits         |![](https://via.placeholder.com/196x22/000000/000000?text=+)![](https://via.placeholder.com/204x22/b8b8b8/b8b8b8?=text=+)|48.72%|
 |🌃 Evening                |74 commits          |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|23.72%|
-|🌙 Night                  |6 commits           |![](https://via.placeholder.com/8x22/000000/000000?text=+)![](https://via.placeholder.com/392x22/b8b8b8/b8b8b8?=text=+)|1.92%|
+|🌙 Night                  |7 commits           |![](https://via.placeholder.com/8x22/000000/000000?text=+)![](https://via.placeholder.com/392x22/b8b8b8/b8b8b8?=text=+)|2.24%|
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
