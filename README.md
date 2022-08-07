@@ -4,7 +4,7 @@
 
 🇫🇷 Living in Paris, France
 
-👨‍💻 Software Engineer since 2013
+👨‍💻 Freelance Software Engineer since 2013
 
 🎓 Certified Scrum Master since 2018
 
@@ -15,28 +15,12 @@
 <br />
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 2.3 million Lines of Code ✍️**
-
-
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 865 Contributions in year 2022**
-
-
 <!--END_CONTRIBUTIONS:readme-info-->
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
-**I'm an early 🐤** 
-
-| | | | |
-| --- | --- | --- | --- |
-|🌞 Morning                |76 commits          |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|24.36%|
-|🌆 Daytime                |152 commits         |![](https://via.placeholder.com/196x22/000000/000000?text=+)![](https://via.placeholder.com/204x22/b8b8b8/b8b8b8?=text=+)|48.72%|
-|🌃 Evening                |74 commits          |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|23.72%|
-|🌙 Night                  |10 commits          |![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|3.21%|
-| | | | |
-
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <br />
@@ -58,7 +42,7 @@
   <img align="left" alt="Figma" width="26px" src="https://img.icons8.com/color/344/figma--v1.png" />
 </div>
 
-<br /><br /><br />
+<br /><br />
 
 <div>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zorkham&theme=bear&custom_title=GitHub%20Stats&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" /> 
