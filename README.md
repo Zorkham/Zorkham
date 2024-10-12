@@ -58,6 +58,6 @@
 <div>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zorkham&theme=bear&custom_title=GitHub%20Stats&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" /> 
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zorkham&theme=bear&show_owner=true&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvainBoudacher&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zorkham&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 </div>
