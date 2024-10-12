@@ -12,8 +12,6 @@
 
 🤩 Passionate about martial arts, astronomy & board games
 
-<br />
-
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/cedric-molla)
 
 <br />
