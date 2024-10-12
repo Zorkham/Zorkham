@@ -14,6 +14,10 @@
 
 <br />
 
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/cedric-molla)
+
+<br />
+
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
 **From Hello World I have written 0 Lines of Code ✍️**
 
@@ -64,6 +68,3 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zorkham&theme=bear&custom_title=GitHub%20Stats&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" /> 
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zorkham&theme=bear&show_owner=true&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
 </div>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Zorkham.visitor-badge&left_color=lightgrey&right_color=blue)
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/cedric-molla)
