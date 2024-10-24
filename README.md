@@ -2,39 +2,25 @@
 
 <img align="right" alt="GIF" width="250" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif"/>
 
-🇫🇷 Living in Paris, France
+🇫🇷 Living in Paris, France.
 
-👨‍💻 Software Engineer since 2013
+👨‍💻 Software Engineer since 2013, specialised in Full Stack JavaScript.
 
-🎓 Certified Scrum Master since 2018
+🎓 Certified Scrum Master since 2018 (Scrum Alliance).
 
-💬 Ask me about JavaScript, React.js, Node.js, TypeScript, Swift, Python
+💬 Ask me about JavaScript, React.js, Node.js, TypeScript, Alpine.js, Swift, Python.
 
-🤩 Passionate about martial arts, astronomy & board games
+As CTO & Co-Founder of Emailee, I developed an innovative SaaS platform to create design email signatures, now used by more than 3500 users.
+
+Creative and passionate about new technologies, I strive to combine UX design and performance in my projects.
+
+🤩 I enjoy martial arts, archery, astronomy, board games and collecting vinyl records.
+
+Feel free to reach out for collaboration opportunities, technical discussion, or just to say hi!
 
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/cedric-molla)
 
-<br />
-
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-<!--END_CONTRIBUTIONS:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
-
-<br />
+<br /><br />
 
 <div>
   <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/ios-glyphs/344/github.png" />
@@ -55,7 +41,7 @@
 
 <br /><br />
 
-<!-- <div>
-  <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=Zorkham&theme=bear&custom_title=GitHub%20Stats&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" /> 
+ <div>
+  <!--<img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=Zorkham&theme=bear&custom_title=GitHub%20Stats&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" /> -->
   <img width="49%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Zorkham&theme=bear&show_owner=true&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
-</div> -->
+</div> 
