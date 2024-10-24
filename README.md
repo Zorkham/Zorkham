@@ -6,8 +6,6 @@
 
 👨‍💻 Software Engineer since 2013, specialised in Full Stack JavaScript.
 
-🎓 Certified Scrum Master since 2018 (Scrum Alliance).
-
 💬 Ask me about JavaScript, React.js, Node.js, TypeScript, Alpine.js, Swift, Python.
 
 As CTO & Co-Founder of Emailee, I developed an innovative SaaS platform to create design email signatures, now used by more than 3500 users.
