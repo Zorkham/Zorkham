@@ -37,9 +37,10 @@ Feel free to reach out for collaboration opportunities, technical discussion, or
   <img align="left" alt="Figma" width="26px" src="https://img.icons8.com/color/344/figma--v1.png" />
 </div>
 
-<br /><br />
+<!--<br /><br />
 
- <div>
+ <div>-->
   <!--<img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=Zorkham&theme=bear&custom_title=GitHub%20Stats&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" /> -->
-  <img width="49%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Zorkham&theme=bear&show_owner=true&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
+  <!--<img width="49%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Zorkham&theme=bear&show_owner=true&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
 </div> 
+-->
